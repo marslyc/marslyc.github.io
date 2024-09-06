@@ -1,4 +1,4 @@
-import{S as f,r as P,f as x,D as _,u as M,W as y,s as C,l as S}from"./three.module-B9tCJV9l.js";import{O as L}from"./OrbitControls-tDbgpgFB.js";import{g as E}from"./index-DjKJqAo0.js";import{R as b}from"./RGBELoader-DXoEt2dh.js";import{G as z}from"./GLTFLoader-Ygr-AMtR.js";import{_ as R,r as k,o as F,f as W,c as A,a as B}from"./index-ClFDabME.js";var D=`precision lowp float;
+import{S as f,r as P,f as x,D as _,u as M,W as y,s as C,l as S}from"./three.module-B9tCJV9l.js";import{O as L}from"./OrbitControls-tDbgpgFB.js";import{g as E}from"./index-DjKJqAo0.js";import{R as b}from"./RGBELoader-DXoEt2dh.js";import{G as z}from"./GLTFLoader-Ygr-AMtR.js";import{_ as R,r as k,o as F,f as W,c as A,a as B}from"./index-DqTGYrXG.js";var D=`precision lowp float;
 
 varying vec4 vPosition;
 varying vec4 gPosition;
